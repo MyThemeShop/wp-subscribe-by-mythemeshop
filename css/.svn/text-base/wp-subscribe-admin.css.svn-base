@@ -1,0 +1,27 @@
+/*
+Plugin Name: WP Subscribe
+Plugin URI: http://mythemeshop.com/plugins/wp-subscribe/
+Author: MyThemeShop
+Author URI: http://mythemeshop.com
+*/
+.wp_subscribe_options_form label {
+    vertical-align: top;
+}
+.wp_subscribe_colors, .wp_subscribe_labels {
+    
+}
+.wp_subscribe_options_form .wp-picker-container {
+    position: absolute;
+	right: 0;
+}
+.wp_subscribe_colors > div {
+	position: relative;
+	margin: 20px 0;
+}
+.wp_subscribe_colors label {
+	display: inline-block;
+	margin-top: 2px;
+}
+.wp_subscribe_options_form .wp-picker-container > a {
+    margin-right: 0;
+}

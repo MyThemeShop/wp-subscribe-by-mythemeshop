@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/plugins/wp-subscribe/
 Tags: subscribe, subscription, subscription box, newsletter, subscribe widget, mailchimp, aweber, feedburner, 
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ WP Subscribe is a simple but powerful subscription plugin which supports MailChi
 
 == Description ==
 
-f you aren’t building an email list, you’re missing out on the most powerful and consistent way to drive repeat visitors and customers to your website or blog. With an email list, you become less and less dependent on external sources of traffic, and gain more ability to interact with your blog’s audience.
+If you aren’t building an email list, you’re missing out on the most powerful and consistent way to drive repeat visitors and customers to your website or blog. With an email list, you become less and less dependent on external sources of traffic, and gain more ability to interact with your blog’s audience.
 
 We at <a href="http://mythemeshop.com/">MyThemeShop</a> understand your need, and have developed a unique, cleanly coded, premium subscription plugin. We are now distributing it for FREE to give back to the WordPress community. We have been given so much by the WordPress community, it's time to give back.
 
@@ -71,6 +71,10 @@ Please disable all plugins and check if plugin is working properly. Then you can
 2. WP Subscribe Settings
 
 == Changelog ==
+
+= 1.0.1 =
+* Fixed Title field saving issue in newly added widget
+* Fixed compatibility with other plugins using Mailchimp API
 
 = 1.0 =
 * Official plugin release.
