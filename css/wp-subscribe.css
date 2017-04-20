@@ -51,15 +51,15 @@ Author URI: http://mythemeshop.com
    color: inherit;
    opacity: 0.8;
 }
-#wp-subscribe input:-moz-input-placeholder {
-   color: inherit;
-   opacity: 0.8;
-}
-#wp-subscribe input::-moz-input-placeholder {
+#wp-subscribe input::-moz-placeholder {
    color: inherit;
    opacity: 0.8;
 }
 #wp-subscribe input::-ms-input-placeholder {
+   color: inherit;
+   opacity: 0.8;
+}
+#wp-subscribe input::placeholder {
    color: inherit;
    opacity: 0.8;
 }
